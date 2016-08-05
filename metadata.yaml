@@ -1,0 +1,39 @@
+_repo: American-Historical-and-Literary-Curiosities-Series-One_7923
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 7923/7923-h/images/1titlepage.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  authors:
+  - agent_name: Watson, John F. (John Fanning)
+    birthdate: 1779
+    deathdate: 1860
+    gutenberg_agent_id: '4716'
+    url: http://www.gutenberg.org/2009/agents/4716
+    wikipedia: http://en.wikipedia.org/wiki/John_Fanning_Watson
+  - agent_name: Smith, J. Jay (John Jay)
+    aliases:
+    - Smith, Jonathan Jay
+    - Smith, John Jay
+    birthdate: 1798
+    deathdate: 1881
+    gutenberg_agent_id: '4711'
+    url: http://www.gutenberg.org/2009/agents/4711
+description: ''
+gutenberg_issued: '2004-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7923'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Autographs -- United States -- Facsimiles'
+- !lcc 'Z'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Sources'
+- GITenberg
+title: American Historical and Literary Curiosities, Series One
+url: http://www.gutenberg.org/ebooks/7923
